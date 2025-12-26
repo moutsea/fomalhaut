@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "title": "Fomalhaut Labs - Make AI Touchable to Everyone",
+    "description": "Fomalhaut Labs provides the same AI coding ability as OpenAI, Claude, and Google, with much lower prices for startup teams and individual developers."
+  },
+  "navigation": {
+    "home": "Home",
+    "products": "Products",
+    "team": "Team",
+    "testimonials": "Testimonials",
+    "about": "About",
+    "contact": "Contact",
+    "language": "Language",
+    "current": "Current",
+    "document": "Document",
+    "faq": "FAQ"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Building the bridge between advanced AI and everyday developers.",
+    "mission": {
+      "title": "Our Mission",
+      "description": "To make AI touchable to everyone, democratizing access to powerful coding tools for individuals and small teams."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "A world where every developer, regardless of resources, can leverage state-of-the-art AI to build the future."
+    },
+    "history": {
+      "title": "Our Story",
+      "description": "Established in September 2025, Fomalhaut Labs began with a simple idea: AI shouldn't be a luxury. From our roots in Singapore and Shanghai, we've grown into a global community."
+    },
+    "founders": {
+      "title": "Leadership",
+      "description": "Led by industry veterans from Alibaba, Shopee, and HKU, bringing decades of experience in Machine Learning and Distributed Systems."
+    }
+  },
+  "contactUs": {
+    "title": "How can we assist?",
+    "subtitle": "We are here to help you.",
+    "email": "Email Us",
+    "twitter": "Twitter",
+    "getInTouch": "Get in touch",
+    "supportTeam": "Our team is dedicated to providing excellent support"
+  },
+  "productsPage": {
+    "title": "Our Products",
+    "subtitle": "Explore our suite of AI-powered tools designed to accelerate your development journey."
+  },
+  "hero": {
+    "eyebrow": "Fomalhaut Labs",
+    "title": "Make AI Touchable to Everyone",
+    "description": "We provide the same AI coding ability as the mainstream AI providers like OpenAI, Claude, and Google, with much lower price for startup teams and individual developers.",
+    "cta": "Start Building",
+    "secondaryCta": "Meet the Team"
+  },
+  "timeline": {
+    "title": "Our Journey",
+    "subtitle": "Milestones that define our progress and commitment to excellence.",
+    "items": [
+      {
+        "date": "2025.09",
+        "title": "Company Established",
+        "description": "Fomalhaut Labs was founded with the mission to democratize AI."
+      },
+      {
+        "date": "2025.09",
+        "title": "CS61B & Beyond",
+        "description": "Launched our first curated educational platform for CS students."
+      },
+      {
+        "date": "2025.10",
+        "title": "Claude IDE",
+        "description": "Released a powerful, accessible mirror for AI-driven development."
+      },
+      {
+        "date": "2025.11",
+        "title": "Code I",
+        "description": "Expanded our portfolio with high-performance code generation tools."
+      },
+      {
+        "date": "2025.12",
+        "title": "100+ Members",
+        "description": "Reached a significant milestone of 100+ subscribed developers."
+      },
+      {
+        "date": "2025.12",
+        "title": "Code By AI",
+        "description": "Introduced our flagship AI assistant at a fraction of the cost."
+      }
+    ]
+  },
+  "products": {
+    "title": "Our Products",
+    "subtitle": "Tools designed to empower your learning and development journey.",
+    "badge": "Products",
+    "viewAll": "View All Products",
+    "items": [
+      {
+        "title": "CS61B & Beyond",
+        "description": "A comprehensive collection website for top-tier Computer Science open courses from leading universities. Accelerate your CS education with curated resources.",
+        "link": "https://cs61bbeyond.com",
+        "linkText": "Visit Website",
+        "logo": "/cs61b.png",
+        "backgroundImage": "/cs61bbg.png",
+        "features": [
+          "Covers CS open courses from top universities",
+          "Courses are organized by category or field",
+          "Supports powerful search functionality",
+          "Excellent interaction and user experience"
+        ],
+        "useCase": "Designed for CS self-learners to easily discover what to learn and access curated open course resources from top institutions.",
+        "pricing": "Free Forever"
+      },
+      {
+        "title": "Code By AI",
+        "description": "The ultimate AI coding assistant mirror. Access Claude Code, Codex, and Gemini models for just 1/6th of the official price. Power your development for less.",
+        "link": "https://codebyai.net",
+        "linkText": "Visit Website",
+        "logo": "/codebyai.png",
+        "backgroundImage": "/coderbyaibg.png",
+        "features": [
+          "Multi-Model Support (Claude/GPT/Gemini) — top up once and use all of them",
+          "Advanced VS Code Extension",
+          "Context-Aware Chat & Edit",
+          "Deep code understanding for complex, large-scale projects"
+        ],
+        "useCase": "Designed for developers who want to use Claude, Codex (GPT), and Gemini models at the same time with very low cost.",
+        "pricing": [
+          "Flexible Pay-as-you-go model",
+          "Price is approximately 1/6 of the official pricing"
+        ]
+      },
+      {
+        "title": "Claude IDE",
+        "description": "A mirror website of Claude, providing the same powerful AI conversational capabilities at a much lower price point. Accessible AI for everyone.",
+        "link": "https://claudeide.net",
+        "linkText": "Visit Website",
+        "logo": "/claudeide.png",
+        "backgroundImage": "/claudecode.png",
+        "features": [
+          "Supports Claude Sonnet 4.5 and Claude Opus 4.5",
+          "Deep code understanding for complex, large-scale projects",
+          "Seamless integration via CLI or IDE plugins (VS Code/JetBrains)",
+          "Command with natural language—no programming skills required"
+        ],
+        "useCase": "Empowering both professional developers and non-coders to manage and build complex projects using intuitive natural language commands.",
+        "pricing": [
+          "Lowest price is $9.9",
+          "$9.9 for 10 Million tokens",
+          "Around 30% of official price",
+          "Cache input takes 10% discount (e.g., 10K cache + 1K input + 0.5K output costs 2.5K tokens)"
+        ]
+      },
+      {
+        "title": "Code I",
+        "description": "A mirror website of OpenAI Codex. Experience top-level code generation and assistance without the high cost.",
+        "link": "https://codeilab.com",
+        "linkText": "Visit Website",
+        "logo": "/codei.png",
+        "backgroundImage": "/codex_hello.png",
+        "features": [
+          "Supports GPT-5.2 and GPT-5.2-codex model",
+          "Deep code understanding for complex, large-scale projects",
+          "Seamless integration via CLI or IDE plugins (VS Code/JetBrains)",
+          "Command with natural language—no programming skills required"
+        ],
+        "useCase": "Empowering developers to generate and refactor code using the latest GPT-5.2 models with intuitive natural language commands.",
+        "pricing": [
+          "Lowest subscription price is $9.9",
+          "$9.9 for official $100 quota",
+          "Around 10% of official price"
+        ]
+      }
+    ]
+  },
+  "team": {
+    "title": "Our Background",
+    "subtitle": "A world-class team with experience from top tech giants and universities.",
+    "badge": "Our Team",
+    "locations": {
+      "title": "Global Presence",
+      "items": ["Singapore", "Shanghai"]
+    },
+    "backgrounds": {
+      "title": "Experience From",
+      "items": ["Alibaba", "Ant Financial", "Shopee", "HKU"]
+    },
+    "wordCloud": {
+      "title": "Expertise",
+      "ml": ["Recommendation", "LLM", "PyTorch", "TensorFlow", "Ads System", "Computer Vision", "NLP"],
+      "backend": ["Node.js", "Python", "Go", "Distributed Systems", "PostgreSQL", "Redis", "Docker", "Kubernetes"]
+    }
+  },
+  "testimonials": {
+    "title": "What Users Say",
+    "subtitle": "Feedback from our community.",
+    "badge": "Testimonials",
+    "footerText": "Join thousands of developers empowering their development with Fomalhaut Labs.",
+    "items": [
+      {
+        "name": "Alex T.",
+        "role": "Student",
+        "feedback": "CS61B & Beyond helped me ace my data structures course. The curated resources are invaluable!",
+        "avatar": "/user_1.jpg"
+      },
+      {
+        "name": "Sarah L.",
+        "role": "Freelancer",
+        "feedback": "Claude IDE is a lifesaver. I get the same powerful AI assistance but at a price that fits my budget.",
+        "avatar": "/user_2.jpg"
+      },
+      {
+        "name": "David K.",
+        "role": "Software Engineer",
+        "feedback": "Code By AI allows me to use top-tier models like Claude Code without breaking the bank. Highly recommended!",
+        "avatar": "/user_3.jpg"
+      }
+    ]
+  },
+  "footer": {
+    "description": "Fomalhaut Labs - Democratizing AI for everyone.",
+    "product": {
+      "title": "Products",
+      "cs61b": "CS61B & Beyond",
+      "claudeIde": "Claude IDE",
+      "codei": "Code I",
+      "codebyai": "Code By AI"
+    },
+    "company": {
+      "title": "Company",
+      "about": "About Us",
+      "team": "Team",
+      "contact": "Contact"
+    },
+    "copyright": "Fomalhaut Labs",
+    "allRightsReserved": "All rights reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy"
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "The page you are looking for might have been removed or is temporarily unavailable.",
+    "backToHome": "Back to Home"
+  }
+}

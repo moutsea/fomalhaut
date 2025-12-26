@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "title": "Fomalhaut Labs - 让 AI 触手及",
+    "description": "Fomalhaut Labs 提供与 OpenAI、Claude 和 Google 等主流供应商同等的 AI 编码能力，价格更低，专为创业团队和个人开发者打造。"
+  },
+  "navigation": {
+    "home": "首页",
+    "products": "产品",
+    "team": "团队",
+    "testimonials": "用户评价",
+    "about": "关于",
+    "contact": "联系我们",
+    "language": "语言",
+    "current": "当前",
+    "document": "文档",
+    "faq": "常见问题"
+  },
+  "about": {
+    "title": "关于我们",
+    "subtitle": "在先进 AI 与普通开发者之间架起桥梁。",
+    "mission": {
+      "title": "我们的使命",
+      "description": "让每个人都能触及 AI，为个人和小型团队提供强大的编程工具，实现开发民主化。"
+    },
+    "vision": {
+      "title": "我们的愿景",
+      "description": "建立一个无论资源多寡，每位开发者都能利用尖端 AI 构建未来的世界。"
+    },
+    "history": {
+      "title": "我们的故事",
+      "description": "Fomalhaut Labs 成立于 2025 年 9 月，始于一个简单的想法：AI 不应是奢侈品。植根于新加坡和上海，我们已成长为一个全球化的社区。"
+    },
+    "founders": {
+      "title": "核心团队",
+      "description": "由来自阿里巴巴、Shopee 和香港大学的行业资深人士领导，在机器学习和分布式系统领域拥有数十年的经验。"
+    }
+  },
+  "contactUs": {
+    "title": "我们可以如何协助？",
+    "subtitle": "我们随时为您提供帮助。",
+    "email": "发邮件",
+    "twitter": "Twitter",
+    "getInTouch": "保持联系",
+    "supportTeam": "我们的团队致力于提供卓越的支持"
+  },
+  "productsPage": {
+    "title": "我们的产品",
+    "subtitle": "探索我们旨在加速您开发之旅的 AI 驱动工具套件。"
+  },
+  "hero": {
+    "eyebrow": "Fomalhaut Labs",
+    "title": "让 AI 触手及",
+    "description": "我们提供与 OpenAI、Claude 和 Google 等主流供应商同等的 AI 编码能力，价格更低，专为创业团队和个人开发者打造。",
+    "cta": "开始构建",
+    "secondaryCta": "认识团队"
+  },
+  "timeline": {
+    "title": "我们的历程",
+    "subtitle": "定义我们进步和追求卓越承诺的里程碑。",
+    "items": [
+      {
+        "date": "2025.09",
+        "title": "公司成立",
+        "description": "Fomalhaut Labs 成立，使命是让 AI 大众化。"
+      },
+      {
+        "date": "2025.09",
+        "title": "CS61B & Beyond",
+        "description": "发布了首个为 CS 学生策划的教育平台。"
+      },
+      {
+        "date": "2025.10",
+        "title": "Claude IDE",
+        "description": "发布了一个强大且易于访问的 AI 驱动开发镜像。"
+      },
+      {
+        "date": "2025.11",
+        "title": "Code I",
+        "description": "通过高性能代码生成工具扩展了我们的产品组合。"
+      },
+      {
+        "date": "2025.12",
+        "title": "100+ 成员",
+        "description": "达到了 100+ 订阅开发者的重要里程碑。"
+      },
+      {
+        "date": "2025.12",
+        "title": "Code By AI",
+        "description": "以极低成本推出了我们的旗舰级 AI 助手。"
+      }
+    ]
+  },
+  "products": {
+    "title": "我们的产品",
+    "subtitle": "旨在助力您的学习与开发之旅的工具。",
+    "badge": "产品",
+    "viewAll": "查看所有产品",
+    "items": [
+      {
+        "title": "CS61B & Beyond",
+        "description": "一个面向全球顶尖大学计算机科学公开课的综合收集网站。通过精心策划的资源加速您的 CS 教育。",
+        "link": "https://cs61bbeyond.com",
+        "linkText": "访问网站",
+        "logo": "/cs61b.png",
+        "backgroundImage": "/cs61bbg.png",
+        "features": [
+          "涵盖顶尖大学的计算机科学公开课",
+          "按类别或领域系统化组织课程",
+          "支持快速精准搜索",
+          "优秀的交互设计与用户体验"
+        ],
+        "useCase": "专为计算机科学自学者设计，帮助轻松发现学习内容并获取来自顶尖机构的精选公开课资源。",
+        "pricing": "永久免费"
+      },
+      {
+        "title": "Code By AI",
+        "description": "终极 AI 编程助手镜像。仅需官方价格的 1/6 即可访问 Claude Code、Codex 和 Gemini 模型。",
+        "link": "https://codebyai.net",
+        "linkText": "访问网站",
+        "logo": "/codebyai.png",
+        "backgroundImage": "/coderbyaibg.png",
+        "features": [
+          "多模型支持 (Claude/GPT/Gemini) — 一次充值，即可使用所有模型",
+          "高级 VS Code 扩展",
+          "上下文感知聊天与编辑",
+          "深度代码理解，可自动阅读并理解复杂的大型项目"
+        ],
+        "useCase": "专为希望以极低成本同时使用 Claude、Codex (GPT) 和 Gemini 模型的开发者而设计。",
+        "pricing": [
+          "灵活的按量付费 (Pay-as-you-go) 模式",
+          "价格约为官方价格的 1/6"
+        ]
+      },
+      {
+        "title": "Claude IDE",
+        "description": "Claude 的镜像网站，以更低的价格提供同样强大的 AI 对话能力。让每个人都能使用 AI。",
+        "link": "https://claudeide.net",
+        "linkText": "访问网站",
+        "logo": "/claudeide.png",
+        "backgroundImage": "/claudecode.png",
+        "features": [
+          "支持 Claude Sonnet 4.5 和 Claude Opus 4.5",
+          "智能代码理解，可自动阅读并理解复杂的大型项目",
+          "易于使用，支持 Claude CLI 或 VS Code/JetBrains 插件",
+          "无需编程技能，即可使用自然语言进行指挥"
+        ],
+        "useCase": "让专业开发者和非编程人员都能通过直观的自然语言指令，轻松管理和构建复杂的项目。",
+        "pricing": [
+          "最低价格为 $9.9",
+          "$9.9 可获得 1000 万 tokens",
+          "约为官方价格的 30%",
+          "缓存输入享受 1 折优惠（例如：10K 缓存 + 1K 输入 + 0.5K 输出，仅计费 2.5K tokens）"
+        ]
+      },
+      {
+        "title": "Code I",
+        "description": "OpenAI Codex 的镜像网站。以极低成本体验顶级的代码生成与辅助能力。",
+        "link": "https://codeilab.com",
+        "linkText": "访问网站",
+        "logo": "/codei.png",
+        "backgroundImage": "/codex_hello.png",
+        "features": [
+          "支持 GPT-5.2 和 GPT-5.2-codex 模型",
+          "深度代码理解，可自动阅读并理解复杂的大型项目",
+          "易于使用，支持 CLI 或 VS Code/JetBrains 插件",
+          "无需编程技能，即可使用自然语言进行指挥"
+        ],
+        "useCase": "让开发者能够通过直观的自然语言指令，利用最新的 GPT-5.2 模型生成和重构代码。",
+        "pricing": [
+          "最低订阅价格为 $9.9",
+          "$9.9 可获得价值 $100 的官方额度",
+          "约为官方价格的 10%"
+        ]
+      }
+    ]
+  },
+  "team": {
+    "title": "我们的背景",
+    "subtitle": "一支拥有顶级科技巨头和大学经验的世界级团队。",
+    "badge": "我们的团队",
+    "locations": {
+      "title": "全球布局",
+      "items": ["新加坡", "上海"]
+    },
+    "backgrounds": {
+      "title": "经验来自",
+      "items": ["阿里巴巴", "蚂蚁金服", "Shopee", "香港大学"]
+    },
+    "wordCloud": {
+      "title": "专业领域",
+      "ml": ["推荐系统", "大语言模型", "PyTorch", "TensorFlow", "广告系统", "计算机视觉", "自然语言处理"],
+      "backend": ["Node.js", "Python", "Go", "分布式系统", "PostgreSQL", "Redis", "Docker", "Kubernetes"]
+    }
+  },
+  "testimonials": {
+    "title": "用户评价",
+    "subtitle": "来自社区的反馈。",
+    "badge": "用户评价",
+    "footerText": "加入数千名使用 Fomalhaut Labs 赋能开发的开发者行列。",
+    "items": [
+      {
+        "name": "Alex T.",
+        "role": "学生",
+        "feedback": "CS61B & Beyond 帮我顺利通过了数据结构课程。这些资源太宝贵了！",
+        "avatar": "/user_1.jpg"
+      },
+      {
+        "name": "Sarah L.",
+        "role": "自由职业者",
+        "feedback": "Claude IDE 是我的救星。它提供了同样强大的 AI 辅助，但价格非常亲民。",
+        "avatar": "/user_2.jpg"
+      },
+      {
+        "name": "David K.",
+        "role": "软件工程师",
+        "feedback": "Code By AI 让我能以极低成本使用 Claude Code。强烈推荐！",
+        "avatar": "/user_3.jpg"
+      }
+    ]
+  },
+  "footer": {
+    "description": "Fomalhaut Labs - 让每个人都能享受 AI 的力量。",
+    "product": {
+      "title": "产品",
+      "cs61b": "CS61B & Beyond",
+      "claudeIde": "Claude IDE",
+      "codei": "Code I",
+      "codebyai": "Code By AI"
+    },
+    "company": {
+      "title": "公司",
+      "about": "关于我们",
+      "team": "团队成员",
+      "contact": "联系我们"
+    },
+    "copyright": "Fomalhaut Labs",
+    "allRightsReserved": "版权所有",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 政策"
+  },
+  "notFound": {
+    "title": "页面未找到",
+    "description": "您访问的页面可能已被移除或暂时不可用。",
+    "backToHome": "返回首页"
+  }
+}
