@@ -1,5 +1,6 @@
 import { NextIntlClientProvider } from "next-intl";
 import { notFound } from "next/navigation";
+import { setRequestLocale } from "next-intl/server";
 import "../globals.css";
 import { locales } from "@/i18n/config";
 import { getMessagesStatic } from "@/lib/messages";
@@ -91,7 +92,7 @@ export async function generateMetadata({
 
 
 export function generateStaticParams() {
-  return locales.map((locale) => ({ locale }));
+  return locales.filter((locale) => locale !== 'en').map((locale) => ({ locale }));
 }
 
 
@@ -106,6 +107,8 @@ export default async function LocaleLayout({
   if (!(locales as readonly string[]).includes(locale)) {
     notFound();
   }
+  
+  setRequestLocale(locale);
 
   // Import messages directly for static export compatibility
   const messages = getMessagesStatic(locale);

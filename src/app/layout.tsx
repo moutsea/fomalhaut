@@ -34,15 +34,18 @@ export const metadata: Metadata = {
   },
 }
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
-}: Readonly<{
+  params
+}: {
   children: React.ReactNode;
-}>) {
-  // For static export, we use a default locale here.
-  // The actual locale will be set by the [locale] layout.
+  params: Promise<{ locale?: string }>;
+}) {
+  const { locale } = await params || {};
+  const lang = locale || 'en';
+
   return (
-    <html lang="en" className={poppins.className} suppressHydrationWarning>
+    <html lang={lang} className={poppins.className} suppressHydrationWarning>
       <head>
         <meta name="msvalidate.01" content="8B900A7AD31AF4E513F58422B9EBA7E5" />
         <meta name="google-site-verification" content="haoZSoCnAnvp3QKrxP5Rat_wF_92mTSkF78rwoyqwhk" />

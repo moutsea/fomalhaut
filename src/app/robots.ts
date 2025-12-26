@@ -3,7 +3,7 @@ import type { MetadataRoute } from 'next';
 export const dynamic = 'force-static';
 
 export default function robots(): MetadataRoute.Robots {
-    const siteUrl = process.env.NEXT_PUBLIC_WEB_URL || 'https://www.codebyai.net';
+    const siteUrl = process.env.NEXT_PUBLIC_WEB_URL || 'https://www.fomalhautlabs.com';
 
     return {
         rules: [

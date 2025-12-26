@@ -1,14 +1,12 @@
-import HomeContent from "@/app/[locale]/page";
+import AboutPageContent from "@/app/[locale]/about/page";
 import EnglishWrapper from "@/components/providers/english-wrapper";
 import { setRequestLocale } from "next-intl/server";
 
-export const dynamic = 'force-static';
-
-export default function RootPage() {
+export default function AboutPage() {
   setRequestLocale('en');
   return (
     <EnglishWrapper>
-      <HomeContent params={Promise.resolve({ locale: 'en' })} />
+      <AboutPageContent params={Promise.resolve({ locale: 'en' })} />
     </EnglishWrapper>
   );
 }
