@@ -48,7 +48,7 @@ export default async function RootLayout({
     <html lang={lang} className={poppins.className} suppressHydrationWarning>
       <head>
         <meta name="msvalidate.01" content="8B900A7AD31AF4E513F58422B9EBA7E5" />
-        <meta name="google-site-verification" content="haoZSoCnAnvp3QKrxP5Rat_wF_92mTSkF78rwoyqwhk" />
+        <meta name="google-site-verification" content="zISNddYhqPtC0GuOluBUyUvQGI_7J1ZxYlkD_LFzWSg" />
       </head>
       <body suppressHydrationWarning>
         <ThemeProvider
